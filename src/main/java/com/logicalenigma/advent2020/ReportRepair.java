@@ -1,4 +1,4 @@
-package com.logicalenigma.advent2020.day1;
+package com.logicalenigma.advent2020;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;
@@ -12,7 +12,6 @@ public class ReportRepair {
 			doWorkFor2();
 			doWorkFor3();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
